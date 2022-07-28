@@ -2,10 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![](https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/f-3/99398f01-c407-4e28-a8bc-ccaa440b6353/f-2%20part5.webm
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
