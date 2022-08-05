@@ -1,3 +1,7 @@
+# Student Profiles
+
+![Student list](https://github.com/ray-nura/FrontendAssessment-StudentProfiles/blob/main/src/img/student.png)
+
 # Part 1
 
 The first step of the assignment is to fetch data from this public JSON API, and present the information on the screen.
@@ -21,8 +25,6 @@ You will then add another search bar to search for students based on tags. A str
 If a name is entered in the search by name input, and a tag is entered in the search by tag input, results that include both the name and tag should be shown.
 
 The next page contains an example of filtering by tag and name at the same time as well as submission instructions.
-
-![Student list](https://github.com/ray-nura/FrontendAssessment-StudentProfiles/blob/main/src/img/student.png)
 
 # Getting Started with Create React App
 
