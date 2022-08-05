@@ -1,10 +1,6 @@
 # Part 1
 
-The first step of the assignment is to fetch data from this public JSON API, and present the information on the screen. The route to fetch the data is:
-
-method: GET
-
-url: https://api.hatchways.io/assessment/students
+The first step of the assignment is to fetch data from this public JSON API, and present the information on the screen.
 
 The second step of the assignment is to style the web page.
 
