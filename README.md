@@ -22,7 +22,7 @@ If a name is entered in the search by name input, and a tag is entered in the se
 
 The next page contains an example of filtering by tag and name at the same time as well as submission instructions.
 
-![Student list](https://github.com/ray-nura/FrontendAssessment-StudentProfiles/src/img/student.png)
+![Student list](https://github.com/ray-nura/FrontendAssessment-StudentProfiles/blob/main/src/img/student.png)
 
 # Getting Started with Create React App
 
