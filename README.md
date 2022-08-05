@@ -1,5 +1,7 @@
 # Student Profiles
 
+## Student Profiles [(https://ray-nura.github.io/FrontendAssessment-StudentProfiles/](https://ray-nura.github.io/FrontendAssessment-StudentProfiles/)
+
 ![Student list](https://github.com/ray-nura/FrontendAssessment-StudentProfiles/blob/main/src/img/student.png)
 
 # Part 1
