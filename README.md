@@ -1,3 +1,33 @@
+# Part 1
+
+The first step of the assignment is to fetch data from this public JSON API, and present the information on the screen. The route to fetch the data is:
+
+method: GET
+
+url: https://api.hatchways.io/assessment/students
+
+The second step of the assignment is to style the web page.
+
+# Part 2
+
+In this part, you are going to add a text input, where a user can filter the list of students by their name (including full name!).
+
+And you are going to make each student have an expandable list view, so that all of their test scores may be viewed.
+
+Required: the plus button should be an HTML button, and if the button is clicked on, the expansion will toggle
+
+# Part 3
+
+Finally, you will add a text input field to add tags for a specific student (adding a tag called “new tag”).
+
+You will then add another search bar to search for students based on tags. A strong submission will have this functionality:
+
+If a name is entered in the search by name input, and a tag is entered in the search by tag input, results that include both the name and tag should be shown.
+
+The next page contains an example of filtering by tag and name at the same time as well as submission instructions.
+
+![Student list](https://github.com/ray-nura/FrontendAssessment-StudentProfiles/src/img/student.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

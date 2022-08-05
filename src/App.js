@@ -59,7 +59,7 @@ function App() {
       <Paper elevation={2} style={{ overflow: 'auto' }}>
         <TextField id="hidden-label-normal" fullWidth placeholder="Search by name" variant="standard" margin="normal"
           value={searchName} onChange={(e) => setSearchName(e.target.value)} />
-        <TextField id="hidden-label-normal" fullWidth placeholder="Search by name" variant="standard" margin="normal"
+        <TextField id="hidden-label-normal" fullWidth placeholder="Search by tag" variant="standard" margin="normal"
           value={searchTag} onChange={(e) => setSearchTag(e.target.value)} />
         <List sx={{ width: '100%', bgcolor: 'background.paper' }}>
 
